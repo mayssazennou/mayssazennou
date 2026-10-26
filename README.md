@@ -8,7 +8,7 @@ From there, I enjoy working across the whole chain: designing the architecture o
 
 I also like plugging in intelligent components (ML models, LLM-based agents) where they actually add value.
 
-I also love building hackathon prototypes: turning an idea into a working product under time pressure, where quick decisions, clear priorities and teamwork matter as much as the code.
+Hackathons are another favorite: turning an idea into a working product under time pressure, where quick decisions, clear priorities and teamwork matter as much as the code.
 
 Get in touch: [My LinkedIn profile](https://www.linkedin.com/in/mayssa-zennou-217428341/)
 
